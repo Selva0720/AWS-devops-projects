@@ -1,2 +1,1 @@
-# AWS-devops-projects
-# AWS-devops-projects
+# AWS and devops-projects
